@@ -1,0 +1,27 @@
+body{
+background-image: url(../img/background.png);
+font-family: 'Lato', 'Arial', 'Helvetica', 'sans-serif';
+margin: 0;
+}
+
+.div-geral {
+background-color: white;
+                    width: 40%;
+                    margin:50px auto 0 auto;
+                    border: 0px;
+                    padding: 40px 0;
+                    margin-top: 50px;
+                    text-align:center;
+                    border-radius: 10px;
+                    box-shadow: 0px 0px 15px rgba(0, 0, 0, .4);
+}
+/*FONT*/
+h1{color: #5D1277;
+}
+
+p{color: #4F4F4F;
+}
+.icones img { 
+    width: 60px;
+    margin: 15px;
+    }
