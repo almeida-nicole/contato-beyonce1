@@ -21,11 +21,11 @@ h1{color: #5D1277;
 
 p{color: #4F4F4F;
 }
+footer{text-align: center;
+    margin: 15px;
+    font-weight: bold;
+}
 .icones img { 
     width: 60px;
     margin: 15px;
-    }
-    footer{text-align: center;
-            margin: 15px;
-            font-weight: bold;
     }
